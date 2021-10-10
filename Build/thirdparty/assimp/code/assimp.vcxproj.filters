@@ -1,0 +1,1749 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Assimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BaseImporter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BaseProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\PostStepRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ImporterRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\DefaultIOStream.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\DefaultIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\CInterfaceIOWrapper.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\SGSpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\VertexTriangleAdjacency.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\SpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\SceneCombiner.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ScenePreprocessor.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\SkeletonMeshBuilder.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\SplitByBoneCountProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\StandardShapes.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\TargetAnimation.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\RemoveComments.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Subdivision.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\scene.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Bitmap.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Version.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\CreateAnimMesh.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\simd.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\DefaultLogger.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Exporter.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\AssimpCExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\CalcTangentsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ComputeUVMappingProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ConvertToLHProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\EmbedTexturesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FindDegenerates.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FindInstancesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FindInvalidDataProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FixNormalsStep.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\GenFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\GenVertexNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\PretransformVertices.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ImproveCacheLocality.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\JoinVerticesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\LimitBoneWeightsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\RemoveRedundantMaterials.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\RemoveVCProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\SortByPTypeProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\SplitLargeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\TextureTransform.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\TriangulateProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ValidateDataStructure.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OptimizeGraph.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OptimizeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\DeboneProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ProcessHelper.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MakeVerboseFormat.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ScaleProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MaterialSystem.cpp">
+      <Filter>MaterialSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\StepExporter.cpp">
+      <Filter>Step</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\AMFImporter.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\AMFImporter_Geometry.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\AMFImporter_Material.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\AMFImporter_Postprocess.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\3DSConverter.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\3DSLoader.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\3DSExporter.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ACLoader.cpp">
+      <Filter>AC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ASELoader.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ASEParser.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\AssbinExporter.cpp">
+      <Filter>ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\AssbinLoader.cpp">
+      <Filter>ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\AssxmlExporter.cpp">
+      <Filter>ASSXML</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\B3DImporter.cpp">
+      <Filter>B3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BVHLoader.cpp">
+      <Filter>BVH</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ColladaLoader.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ColladaParser.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ColladaExporter.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\DXFLoader.cpp">
+      <Filter>DXF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\CSMLoader.cpp">
+      <Filter>CSM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\HMPLoader.cpp">
+      <Filter>HMP</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\IRRMeshLoader.cpp">
+      <Filter>IRRMESH</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\IRRShared.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\IRRLoader.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\LWOAnimation.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\LWOBLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\LWOLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\LWOMaterial.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\LWSLoader.cpp">
+      <Filter>LWS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MD2Loader.cpp">
+      <Filter>MD2</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MD3Loader.cpp">
+      <Filter>MD3</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MD5Loader.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MD5Parser.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MDCLoader.cpp">
+      <Filter>MDC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MDLLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MDLMaterialLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\NFFLoader.cpp">
+      <Filter>NFF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\NDOLoader.cpp">
+      <Filter>NDO</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OFFLoader.cpp">
+      <Filter>OFF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ObjFileImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ObjFileMtlImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ObjFileParser.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ObjExporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OgreImporter.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OgreStructs.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OgreBinarySerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OgreXmlSerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OgreMaterial.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OpenGEXExporter.cpp">
+      <Filter>OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OpenGEXImporter.cpp">
+      <Filter>OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\PlyLoader.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\PlyParser.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\PlyExporter.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MS3DLoader.cpp">
+      <Filter>MS3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\COBLoader.cpp">
+      <Filter>COB</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderLoader.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderDNA.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderScene.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderModifier.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderBMesh.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderTessellator.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderCustomData.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\IFCLoader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\IFCReaderGen1_2x3.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\IFCReaderGen2_2x3.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\IFCUtil.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\IFCGeometry.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\IFCMaterial.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\IFCProfile.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\IFCCurve.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\IFCBoolean.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\IFCOpenings.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\STEPFileReader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\STEPFileEncoding.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\XGLLoader.cpp">
+      <Filter>XGL</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXImporter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXParser.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXConverter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXDocument.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXProperties.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXMeshGeometry.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXMaterial.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXModel.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXAnimation.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXNodeAttribute.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXDeformer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXBinaryTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXDocumentUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXExporter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXExportNode.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXExportProperty.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Q3DLoader.cpp">
+      <Filter>Q3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Q3BSPFileParser.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Q3BSPFileImporter.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Q3BSPZipArchive.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\RawLoader.cpp">
+      <Filter>RAW</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\SIBImporter.cpp">
+      <Filter>SIB</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\SMDLoader.cpp">
+      <Filter>SMD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\STLLoader.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\STLExporter.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\TerragenLoader.cpp">
+      <Filter>TERRAGEN</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\UnrealLoader.cpp">
+      <Filter>3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\XFileImporter.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\XFileParser.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\XFileExporter.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DExporter.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DImporter.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DImporter_Geometry2D.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DImporter_Geometry3D.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DImporter_Group.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DImporter_Light.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DImporter_Metadata.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DImporter_Networking.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DImporter_Postprocess.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DImporter_Rendering.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DImporter_Shape.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DImporter_Texturing.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FIReader.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DVocabulary.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTFImporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTFExporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTF2Importer.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTF2Exporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\D3MFImporter.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\D3MFExporter.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\D3MFOpcPackage.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MMDImporter.cpp">
+      <Filter>MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MMDPmxParser.cpp">
+      <Filter>MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\unzip\ioapi.c">
+      <Filter>unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\unzip\unzip.c">
+      <Filter>unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\poly2tri\poly2tri\common\shapes.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\advancing_front.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\cdt.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\sweep.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\sweep_context.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\clipper\clipper.cpp">
+      <Filter>Clipper</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\openddlparser\code\OpenDDLParser.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\openddlparser\code\DDLNode.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\openddlparser\code\OpenDDLCommon.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\openddlparser\code\OpenDDLExport.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\openddlparser\code\Value.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\openddlparser\code\OpenDDLStream.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcArithmeticCodec.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcDynamicVectorDecoder.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcDynamicVectorEncoder.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcTools.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcTriangleFans.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\zip\src\zip.c">
+      <Filter>ziplib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BaseProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ScenePrivate.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\DefaultProgressHandler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\CInterfaceIOWrapper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\IFF.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\VertexTriangleAdjacency.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ScenePreprocessor.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\SplitByBoneCountProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\TargetAnimation.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\simd.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\DefaultLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\LogStream.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\Logger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\NullLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Win32DebugLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FileLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\StdOStreamLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\BlobIOSystem.h">
+      <Filter>Exporter</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\CalcTangentsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ComputeUVMappingProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ConvertToLHProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\EmbedTexturesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FindDegenerates.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FindInstancesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FindInvalidDataProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FixNormalsStep.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\GenFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\GenVertexNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\PretransformVertices.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ImproveCacheLocality.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\JoinVerticesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\LimitBoneWeightsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\RemoveRedundantMaterials.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\RemoveVCProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\SortByPTypeProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\SplitLargeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\TextureTransform.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\TriangulateProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ValidateDataStructure.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OptimizeGraph.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OptimizeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\DeboneProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ProcessHelper.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\PolyTools.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MakeVerboseFormat.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ScaleProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MaterialSystem.h">
+      <Filter>MaterialSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\STEPFile.h">
+      <Filter>Step</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\StepExporter.h">
+      <Filter>Step</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\AMFImporter.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\AMFImporter_Macro.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\AMFImporter_Node.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\3DSHelper.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\3DSLoader.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\3DSExporter.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ACLoader.h">
+      <Filter>AC</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ASELoader.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ASEParser.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\AssbinExporter.h">
+      <Filter>ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\AssbinLoader.h">
+      <Filter>ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\AssxmlExporter.h">
+      <Filter>ASSXML</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\B3DImporter.h">
+      <Filter>B3D</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BVHLoader.h">
+      <Filter>BVH</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ColladaHelper.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ColladaLoader.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ColladaParser.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ColladaExporter.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\DXFLoader.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\DXFHelper.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\CSMLoader.h">
+      <Filter>CSM</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\HMPFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\HMPLoader.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\HalfLifeFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\IRRMeshLoader.h">
+      <Filter>IRRMESH</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\IRRShared.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\IRRLoader.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\LWOAnimation.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\LWOFileData.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\LWOLoader.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\LWSLoader.h">
+      <Filter>LWS</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MD2FileData.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MD2Loader.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MD2NormalTable.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MD3FileData.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MD3Loader.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MD5Loader.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MD5Parser.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MDCFileData.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MDCLoader.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MDCNormalTable.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MDLDefaultColorMap.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MDLFileData.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MDLLoader.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\NFFLoader.h">
+      <Filter>NFF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\NDOLoader.h">
+      <Filter>NDO</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OFFLoader.h">
+      <Filter>OFF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ObjFileData.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ObjFileImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ObjFileMtlImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ObjFileParser.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ObjTools.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\ObjExporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OgreImporter.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OgreStructs.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OgreParsingUtils.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OgreBinarySerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OgreXmlSerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OpenGEXExporter.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OpenGEXImporter.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\OpenGEXStructs.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\PlyLoader.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\PlyParser.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\PlyExporter.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MS3DLoader.h">
+      <Filter>MS3D</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\COBLoader.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\COBScene.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderLoader.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderDNA.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderDNA.inl">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderScene.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderSceneGen.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderIntermediate.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderModifier.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderBMesh.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderTessellator.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\BlenderCustomData.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\IFCLoader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\IFCReaderGen_2x3.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\IFCUtil.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\STEPFileReader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Importer\IFC\STEPFileEncoding.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\XGLLoader.h">
+      <Filter>XGL</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXCompileConfig.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXImporter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXParser.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXTokenizer.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXImportSettings.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXConverter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXUtil.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXDocument.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXProperties.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXMeshGeometry.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXExporter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXExportNode.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXExportProperty.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FBXCommon.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Q3DLoader.h">
+      <Filter>Q3D</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Q3BSPFileData.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Q3BSPFileParser.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Q3BSPFileImporter.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\Q3BSPZipArchive.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\RawLoader.h">
+      <Filter>RAW</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\SIBImporter.h">
+      <Filter>SIB</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\SMDLoader.h">
+      <Filter>SMD</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\STLLoader.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\STLExporter.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\TerragenLoader.h">
+      <Filter>TERRAGEN</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\UnrealLoader.h">
+      <Filter>3D</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\XFileHelper.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\XFileImporter.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\XFileParser.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\XFileExporter.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DExporter.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DImporter.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DImporter_Macro.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\X3DImporter_Node.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\FIReader.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTFAsset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTFAsset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTFAssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTFAssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTFImporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTFExporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTF2Asset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTF2Asset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTF2AssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTF2AssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTF2Importer.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\glTF2Exporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\D3MFImporter.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\D3MFExporter.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\D3MFOpcPackage.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\3MFXmlTags.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MMDCpp14.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MMDImporter.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MMDPmdParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MMDPmxParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\MMDVmdParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\irrXMLWrapper.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\unzip\crypt.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\unzip\ioapi.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\unzip\unzip.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\poly2tri\poly2tri\common\shapes.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\poly2tri\poly2tri\common\utils.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\advancing_front.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\cdt.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\sweep.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\poly2tri\poly2tri\sweep\sweep_context.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\clipper\clipper.hpp">
+      <Filter>Clipper</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\openddlparser\include\openddlparser\OpenDDLParser.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\openddlparser\include\openddlparser\OpenDDLParserUtils.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\openddlparser\include\openddlparser\OpenDDLCommon.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\openddlparser\include\openddlparser\OpenDDLExport.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\openddlparser\include\openddlparser\OpenDDLStream.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\openddlparser\include\openddlparser\DDLNode.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\openddlparser\include\openddlparser\Value.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcAdjacencyInfo.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcArithmeticCodec.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcBinaryStream.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcCommon.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcDVEncodeParams.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcDynamicVectorDecoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcDynamicVectorEncoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcDynamicVector.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcFIFO.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcIndexedFaceSet.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcIndexedFaceSet.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcSC3DMCDecoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcSC3DMCDecoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcSC3DMCEncodeParams.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcSC3DMCEncoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcSC3DMCEncoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcTimer.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcTriangleFans.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcTriangleListDecoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcTriangleListDecoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcTriangleListEncoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcTriangleListEncoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcVector.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\Open3DGC\o3dgcVector.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\zip\src\miniz.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\contrib\zip\src\zip.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\anim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\ai_assert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\color4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\color4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\Build\thirdparty\assimp\include\assimp\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\Defines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\cfileio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\material.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\matrix3x3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\matrix3x3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\matrix4x4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\matrix4x4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\pbrmaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\postprocess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\quaternion.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\metadata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\vector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\vector2.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\vector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\vector3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\cimport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\importerdesc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\Importer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\ProgressHandler.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\IOStream.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\IOSystem.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\cexport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\Exporter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\DefaultIOStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\DefaultIOSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\SceneCombiner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\fast_atof.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\qnan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\BaseImporter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\Hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\MemoryIOWrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\ParsingUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\StreamReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\StreamWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\StringComparison.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\StringUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\SGSpatialSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\GenericProperty.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\SpatialSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\SkeletonMeshBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\SmoothingGroups.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\SmoothingGroups.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\StandardShapes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\RemoveComments.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\Subdivision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\Vertex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\LineSplitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\TinyFormatter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\Profiler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\LogAux.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\Bitmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\XMLTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\IOStreamBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\CreateAnimMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\MathFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\Macros.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\Exceptional.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\ByteSwapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\Compiler\pushpack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\Compiler\poppack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\include\assimp\Compiler\pstdint.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\5_SEM\PAGI\Repo_moje\thirdparty\assimp\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="3D">
+      <UniqueIdentifier>{4A5F8A79-CC0D-35FF-BED5-0C7385D973B2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DS">
+      <UniqueIdentifier>{0FD5FDD7-12A6-3A5C-B716-13962DE80E82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3MF">
+      <UniqueIdentifier>{B6AA2FCF-9DC8-3268-B97B-076AF941B02D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AC">
+      <UniqueIdentifier>{B2DD2295-5B85-3FAA-B72F-F4E836A2A262}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AMF">
+      <UniqueIdentifier>{6CC9AF44-2AD3-3510-8EDB-685FB7D08038}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASE">
+      <UniqueIdentifier>{180FB747-0377-3C75-BD0C-C01FC8DE32DB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSBIN">
+      <UniqueIdentifier>{248A0C55-37A9-3673-848A-0FEF216791D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSXML">
+      <UniqueIdentifier>{DE30E7D5-DC48-3495-BB59-CC7CA28DC6AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="B3D">
+      <UniqueIdentifier>{15BE5F38-C07E-36F0-B30D-BA5029769102}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BLEND">
+      <UniqueIdentifier>{1E96B75E-0DC6-3333-BAE7-F5568A5DC48D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BVH">
+      <UniqueIdentifier>{47E92B2F-4E4F-3EB8-891A-8AB7C246BC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COB">
+      <UniqueIdentifier>{5CF12E56-CC59-3EC7-BAC9-5CDD952D7334}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COLLADA">
+      <UniqueIdentifier>{ECB00582-6886-3049-970C-965092067F88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CSM">
+      <UniqueIdentifier>{994024A6-51E3-3E86-BD4C-C8A2506BF834}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Clipper">
+      <UniqueIdentifier>{F193925F-3288-3AED-8986-205E0729F5E8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{ECD57BC9-07E7-3C35-B7F4-BC81EE5FE559}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Compiler">
+      <UniqueIdentifier>{49A08D6D-48BD-38E9-93D2-5AF1CB713DC4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXF">
+      <UniqueIdentifier>{59F353E0-1F9B-302E-A544-92AC6930139B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exporter">
+      <UniqueIdentifier>{45BB2625-87AF-35EC-8C36-8997C6D314B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBX">
+      <UniqueIdentifier>{005B5B86-A2EB-35D7-8CE6-D8E388F740D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLTF">
+      <UniqueIdentifier>{A5720E8B-1D38-3B37-B89B-1652EE504544}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HMP">
+      <UniqueIdentifier>{CD1F6674-D9DE-3315-84F4-89F8BB631BCC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{18872F57-152A-3482-A06E-D48042A76FDB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IFC">
+      <UniqueIdentifier>{54DD70E7-9C36-3C98-A0BF-A49059DEAEAE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRR">
+      <UniqueIdentifier>{80FE6D37-D132-3EC2-84B5-A6FD467213A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRRMESH">
+      <UniqueIdentifier>{A1377F0C-9925-3DC4-9A35-BD4DCD506384}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IrrXML">
+      <UniqueIdentifier>{4AC9972B-EADB-3862-815E-6FD557780F46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWO">
+      <UniqueIdentifier>{CFC9C989-BE7A-3FB6-BCA7-162CA2520775}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWS">
+      <UniqueIdentifier>{34DCB0C0-E7EA-3F56-8022-76417D8CA4FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{60889896-BE9C-3301-84AE-E632BC3A6442}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD2">
+      <UniqueIdentifier>{3C16BF15-6B99-318F-BC53-D4FC1AA3590D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD3">
+      <UniqueIdentifier>{0920E52C-2DE2-33E0-9870-C28485666286}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD5">
+      <UniqueIdentifier>{1798FF99-287A-33F4-BF84-3C5102743C38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDC">
+      <UniqueIdentifier>{A25D3793-B10A-372F-B578-6D2DCDDB6957}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDL">
+      <UniqueIdentifier>{469F78B5-4725-30C7-9DE4-CA6BFD90BC2B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MMD">
+      <UniqueIdentifier>{FAB5951B-F482-3835-BA70-608D00F47C5C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MS3D">
+      <UniqueIdentifier>{0230EA90-4650-3090-A435-71F0DB04251D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialSystem">
+      <UniqueIdentifier>{7A064F10-D7D6-3AFC-9976-D8A210739EF1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NDO">
+      <UniqueIdentifier>{B020B9C2-BA5F-30F7-8E6B-4E2AC63AB522}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NFF">
+      <UniqueIdentifier>{D592E07A-D3C4-3BD4-B6D8-CCB5904EF518}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJ">
+      <UniqueIdentifier>{4B548351-3059-381B-ACE9-4180311CD9C4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OFF">
+      <UniqueIdentifier>{2BB6C5A0-B66B-396F-9CFD-48EB602CD2A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OGRE">
+      <UniqueIdentifier>{19EC88C0-5406-31C8-892C-B09714ED5FC0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OPENGEX">
+      <UniqueIdentifier>{02555CF0-6AB0-39F3-A9EA-A0DD46E9E136}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PLY">
+      <UniqueIdentifier>{DAFC654B-848A-3DE2-9A34-29F4759185FD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Poly2Tri">
+      <UniqueIdentifier>{816AFF3C-2C5E-335E-8F0B-CAD9C05A9BA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProcessing">
+      <UniqueIdentifier>{3964B802-B696-32EC-8378-DCECF27951C4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3BSP">
+      <UniqueIdentifier>{530FAE9C-4300-381B-9C97-DE97D53590B5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3D">
+      <UniqueIdentifier>{626262B6-351B-343B-8F81-050F4CAD55FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RAW">
+      <UniqueIdentifier>{80FE772B-5B9E-3997-90A5-970B4161F623}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SIB">
+      <UniqueIdentifier>{B58868FC-9F92-3E71-BA46-1766E4751F2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SMD">
+      <UniqueIdentifier>{9A64EACB-EDD2-39BC-962D-D050741E19B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL">
+      <UniqueIdentifier>{E0585A21-664E-3212-B153-BE35F4048D62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{00CC7DE2-06D0-3F71-AEC0-86844B31FF04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Step">
+      <UniqueIdentifier>{D0727E7D-DA25-3598-B2B5-34F2D3064AA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TERRAGEN">
+      <UniqueIdentifier>{6E9A2B78-28AA-31B7-9D3B-D2E35850B5A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X">
+      <UniqueIdentifier>{DF56B988-19EE-31E0-A505-A1AE6BA16DFA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3D">
+      <UniqueIdentifier>{16AB8013-7DF1-3AD2-9F07-CD475C0B0528}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XGL">
+      <UniqueIdentifier>{888A254B-708E-3943-9471-685119CF97AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="open3dgc">
+      <UniqueIdentifier>{590BE39E-0B6F-3667-B625-0AC75C3D5670}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="openddl_parser">
+      <UniqueIdentifier>{94704102-603E-3738-8830-77D5D421A7ED}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="unzip">
+      <UniqueIdentifier>{CCE366E1-3DF4-32F1-BE5B-4A7D1D1611A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ziplib">
+      <UniqueIdentifier>{55ED4153-26B2-381F-BA3B-496249D12A75}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
